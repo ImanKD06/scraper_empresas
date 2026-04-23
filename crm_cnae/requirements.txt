@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pandas
+openpyxl
+python-multipart
+passlib[bcrypt]
+python-jose
+requests
+beautifulsoup4
